@@ -7,11 +7,14 @@
     <script src="app.js"></script>
 	<style type="text/css">
 		a{
-			text-decoration: none;
+			text-decoration: none;text-decoration: none;
+    color: green;
+    font-size: 20px;
 		}
 		ul li{
 			list-style-type: none;
 			display: inline-block;
+			border: 2px solid grey;
 				width: 300px;
 				margin:20px 0px 20px 20%;			
 		}
@@ -25,16 +28,16 @@
 </head>
 <body ng-app="routerapp" >
 <ul>
-	<li><a ui-sref="display({soft:'Photoshop'})"><img src='images/photoshop.jpg'>Photoshop</a></li>
-	<li><a ui-sref="display({soft:'Blender'})"><img src='images/blender.jpg'>Blender</a></li>
-	<li><a ui-sref="display({soft:'Ms-Office'})"><img src='images/msoffice.jpg'>Ms-Office</a></li>
-	<li><a ui-sref="display({soft:'Xampp'})"><img src='images/XAMPP.png'>Xampp</a></li>
-	<li><a ui-sref="display({soft:'Visual Studio'})"><img src='images/visualstudio.png'>Visual Studio</a></li>
-	<li><a ui-sref="display({soft:'Sublime Text Editor'})"><img src='images/sublime.jpg'>Sublime Text Editor</a></li>
-	<li><a ui-sref="display({soft:'Adobe Reader'})"><img src='images/adobereader.jpg'>Adobe Reader</a></li>
-	<li><a ui-sref="display({soft:'Git hub'})"><img src='images/github.png'>Git hub</a></li>
-	<li><a ui-sref="display({soft:'Fl Studio'})"><img src='images/fl.png'>Fl Studio</a></li>
-	<li><a ui-sref="display({soft:'Dreamweaver'})"><img src='images/dreamweaver.png'>Dreamweaver</a></li>
+	<li><a ui-sref="display({soft:'MahatmaGandhi'})"><img src='images/a.jpg'>Mahatma Gandhi</a></li>
+	<li><a ui-sref="display({soft:'Nehru'})"><img src='images/b.jpg'>Nehru</a></li>
+	<li><a ui-sref="display({soft:'Rani Lakshmi Bhai'})"><img src='images/d.jpg'>Rani Lakshmi Bai</a></li>
+	<li><a ui-sref="display({soft:'Subhash Chandra Bose'})"><img src='images/c.jpg'>Subhash Chandra Bose</a></li>
+	<li><a ui-sref="display({soft:'Mother Teresa'})"><img src='images/e.jpg'>Mother Teresa</a></li>
+	<li><a ui-sref="display({soft:'Lala Latpath Rai'})"><img src='images/f.jpg'>Lala Latpath Rai Editor</a></li>
+	<li><a ui-sref="display({soft:'Rabindranath Tagore'})"><img src='images/g.jpg'>Rabindranath Tagore</a></li>
+	<li><a ui-sref="display({soft:'Abdul Kalam'})"><img src='images/h.jpg'>Abdul Kalam</a></li>
+	<li><a ui-sref="display({soft:'Bharathiyar'})"><img src='images/i.jpg'>Bharathiyar</a></li>
+	<li><a ui-sref="display({soft:'Bhagath Singh'})"><img src='images/j.jpg'>Bhagath Singh</a></li>
 </ul>
 <div ui-view>
 </div>

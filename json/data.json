@@ -1,54 +1,54 @@
 {  
    
-      "Photoshop":{  
-        "name":"Photoshop",
-         "description":"Adobe Photoshop is a raster graphics editor developed and published by Adobe Systems for macOS and Windows.",
-         "url":"/images/Photoshop.jpg"
+      "MahatmaGandhi":{  
+        "name":"Mahatma Gandhi",
+         "description":"Mohandas Karamchand Gandhi was the preeminent leader of the Indian independence movement in British-ruled India. Wikipedia",
+         "url":"images/a.jpg"
       },
-     "Blender":{  
-        "name":"Blender",
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/blender.jpg"
+     "Nehru":{  
+        "name":"Jewaharlal Nehru",
+         "description":"NEHRU was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/b.jpg"
       },
-      "Ms-Office":{  
-         "name":"Ms-Office",
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/msoffice.jpg"
+      "Rani Lakshmi Bhai":{  
+         "name":"Rani Lakshmi Bhai",
+         "description":"Mohandas Karamchand Gandhi was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/d.jpg"
       },
-     "Xampp": {  
-         "name":"XAMPP",
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/XAMPP.png"
+     "Subhash Chandra Bose": {  
+         "name":"Subhash Chandra Bose",
+         "description":"Bose was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/c.jpg"
       },
-      "Visual Studio":{  
-        "name":"Visual Studio",
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/visualstudio.png"
+      "Mother Teresa":{  
+        "name":"Mother Teresa",
+         "description":"Mohandas Karamchand Gandhi was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/e.jpg"
       },
-     "Sublime Text Editor": {  
-      "name":"Sublime Text Editor",
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/sublime.jpg"
+     "Lala Latpath Rai": {  
+      "name":"Lala Latpath Rai",
+         "description":"Mohandas Karamchand Gandhi was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/f.jpg"
       },
-      "Adobe Reader":{  
-         "name":"Adobe Reader",
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/adobereader.jpg"
+      "Rabindranath Tagore":{  
+         "name":"Rabindranath Tagore",
+         "description":"Mohandas Karamchand Gandhi was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/g.jpg"
       },
-      "Git hub":{ 
-      "name":"Git Hub", 
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/github.png"
+      "Abdul Kalam":{ 
+      "name":"Abdul Kalam", 
+         "description":"Abdul was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/h.jpg"
       },
-      "Fl Studio":{ 
-      "name":"Fl Studio", 
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/fl.png"
+      "Bharathiyar":{ 
+      "name":"Bharathiyar", 
+         "description":"Bharathiyar was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/i.jpg"
       },
-      "Dreamweaver":{ 
-      "name":"Dreamweaver", 
-         "description":"Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games",
-         "url":"/images/dreamweaver.png"
+      "Bhagath Singh":{ 
+      "name":"Bhagath Singh", 
+         "description":"Bhagath singh was the preeminent leader of the Indian independence movement in British-ruled India.",
+         "url":"images/j.jpg"
       }
    
 }
